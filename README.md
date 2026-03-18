@@ -2,24 +2,44 @@
 
 Backend Developer | Java | Spring Boot
 
-I am a backend developer passionate about building scalable systems and REST APIs using Java and Spring Boot.
+I enjoy building scalable backend systems and REST APIs using Java and Spring Boot.
 
-## 🚀 Tech Stack
-- Java
-- Spring Boot
-- Spring Security
-- Hibernate / JPA
-- PostgreSQL / MySQL
-- Docker
+---
 
-## 🛠 Projects
-- Chronos Job Scheduler — Cron-based backend job scheduling system
-- News Aggregator Backend — Secure API service with JWT authentication
+🚀 **Tech Stack**
 
-## 📚 Currently Learning
-- System Design
-- Distributed Systems
-- Advanced Spring Boot
+• Languages: Java, SQL
+• Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate / JPA
+• Databases: PostgreSQL, MySQL, MongoDB
+• Tools: Docker, Git, Maven, Postman
+
+---
+
+🛠 **Featured Projects**
+
+**Chronos Job Scheduler**
+
+• Cron-based job scheduling system built using Spring Boot and PostgreSQL
+• Supports recurring jobs and manual job execution
+• Maintains execution history and logging for monitoring
+• REST APIs for managing job lifecycle
+
+**News Aggregator Backend**
+
+• Backend API service with JWT-based authentication using Spring Security
+• Supports user registration and login with secure token authorization
+• CRUD APIs for managing saved news articles
+• Modular backend architecture using Spring Boot and JPA
+
+---
+
+📚 **Currently Learning**
+
+• System Design
+• Distributed Systems
+• Advanced Spring Boot
+
+---
 
 ## 🔗 Connect With Me
 - LinkedIn: www.linkedin.com/in/ayan-chakraborty-b637b9244
