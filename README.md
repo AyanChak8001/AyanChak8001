@@ -9,8 +9,11 @@ I enjoy building scalable backend systems and REST APIs using Java and Spring Bo
 🚀 **Tech Stack**
 
 • Languages: Java, SQL
+
 • Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate / JPA
+
 • Databases: PostgreSQL, MySQL, MongoDB
+
 • Tools: Docker, Git, Maven, Postman
 
 ---
